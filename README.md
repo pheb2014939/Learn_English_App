@@ -2,9 +2,9 @@
 
 ## Database design 
 
--This project utilize Firebase Realtime Database
--The application contains 9 Tables: Each category contains words, their
+This project utilize Firebase Realtime Database. The application contains 9 Tables: Each category contains words, their
 definitions, examples, images, and related vocabulary.
+
 - Advanced English Communication,
 - Quiz
 - Basic Communication
