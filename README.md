@@ -1,5 +1,10 @@
 #  LEARN ENGLISH DICTIONARY APP
 
+## Description
+
+The app provides a comprehensive word lists, engaging activities such as quizzes, flashcards, and bilingual stories to
+reinforce learning and improve retention.
+
 ## Database design 
 
 This project utilize Firebase Realtime Database. The application contains 9 Tables: Each category contains words, their
