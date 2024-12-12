@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "604388857587",
+    "project_id": "lab13dictionary",
+    "storage_bucket": "lab13dictionary.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604388857587:android:b2254a3d52da65a2484986",
+        "android_client_info": {
+          "package_name": "com.example.lab13englishdictionary"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_EGcrllBe9pUoRAyu_4zGekzlpxiCVLc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

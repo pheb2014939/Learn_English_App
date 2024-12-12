@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="lavender">#6750A4</color>FEE2EA
+    <color name="pink">#FEE2EA</color>FFE4C1
+    <color name="mautim">#DAD4FF</color>B7509A
+    <color name="mauhong">#FFABE7</color>FFE4C1
+
+
+    <color name="organe">#FFE4C1</color>FEFC91
+    <color name="organe1">#FFAD19</color>FEFC91
+
+    <color name="yellow">#FEFC91</color>65E6FF
+    <color name="blue">#B4ECFF</color>65E6FF
+    <color name="blue1">#2D4973</color>D9EFE2
+    <color name="blue3">#42D7FF</color>D9EFE2
+
+    <color name="green">#42D7FF</color>
+    <color name="blue2">#CFFFCA</color>
+    <color name="red">#FF604E</color>
+    <color name="cam">#FFAD19</color>
+
+    <color name="black1">#FF000000</color>
+    <color name="white1">#FFFFFFFF</color>
+    <color name="blue11">#2D4973</color>
+    <color name="blue12">#44D7FF</color>
+    <color name="orgrane">#E9C12C</color>45B16A
+    <color name="correct">#4CC377</color>45B16A
+
+    <color name="red1">#FF4B4A</color>45B16A
+
+
+
+
+
+
+
+
+
+
+
+</resources>

@@ -1,0 +1,108 @@
+<resources>
+    <string name="app_name">Lab13EnglishDictionary</string>
+    <string name="title_activity_basic_communication">BasicCommunicationActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="late_blight"><![CDATA[<b><font color="#008000">Story name: </font></b>Never tell a lie <br><br> On his deathbed, a father advised his son to always speak truth. The son promised that he would never tell a lie. <br><br><font color="#008000">(Trong giờ phút cuối đời của mình, người cha đã khuyên con trai ông ấy phải luôn nói thật. Người con hứa rằng anh ấy sẽ không bao giờ nói dối.)</font> <br><br>One day, while going to the city through a forest, he got surrounded by some robbers. One of them asked, “What do you have?” <br><br><font color="#008000">(Một ngày nọ, trong khi đi đến thành phố thông qua khu rừng, cậu bé bị bao quanh bởi những tên cướp. Một trong số chúng hỏi “mày có cái gì?)</font><br><br> The boy answered, “I have fifty rupees.<br><br><font color="#008000">(” Anh ta trả lời: “Tôi có 50 đồng ru pi”)</font><br><br>They searched him but couldn’t find anything. When they were about to go, the boy called out, “I am not telling a lie. See this fifty rupee note which I had hidden in my shirt.” <br><br><font color="#008000">(Họ lục soát người anh ta nhưng không tìm thấy bất kỳ thứ gì. Khi họ chuẩn bị bỏ đi, cậu bé gọi họ lại: ” Tôi không nói dối. Nhìn này 50 đồng rupi tôi giấu trong áo này”.) </font><br><br> The leader of the robbers felt pleased at the truthfulness of the boy, gave him hundred rupees as reward and went away. <br><br><font color="#008000">(Thủ lĩnh băng cướp cảm thấy hài lòng về tính thật thà của cậu bé, ông ta cho cậu bé 100 đồng rupi như một phần thưởng và bỏ đi.)</font>]]></string>
+
+
+    <string name="lorem_ipsum">
+        Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam in scelerisque sem. Mauris
+        volutpat, dolor id interdum ullamcorper, risus dolor egestas lectus, sit amet mattis purus
+        dui nec risus. Maecenas non sodales nisi, vel dictum dolor. Class aptent taciti sociosqu ad
+        litora torquent per conubia nostra, per inceptos himenaeos. Suspendisse blandit eleifend
+        diam, vel rutrum tellus vulputate quis. Aliquam eget libero aliquet, imperdiet nisl a,
+        ornare ex. Sed rhoncus est ut libero porta lobortis. Fusce in dictum tellus.\n\n
+        Suspendisse interdum ornare ante. Aliquam nec cursus lorem. Morbi id magna felis. Vivamus
+        egestas, est a condimentum egestas, turpis nisl iaculis ipsum, in dictum tellus dolor sed
+        neque. Morbi tellus erat, dapibus ut sem a, iaculis tincidunt dui. Interdum et malesuada
+        fames ac ante ipsum primis in faucibus. Curabitur et eros porttitor, ultricies urna vitae,
+        molestie nibh. Phasellus at commodo eros, non aliquet metus. Sed maximus nisl nec dolor
+        bibendum, vel congue leo egestas.\n\n
+        Sed interdum tortor nibh, in sagittis risus mollis quis. Curabitur mi odio, condimentum sit
+        amet auctor at, mollis non turpis. Nullam pretium libero vestibulum, finibus orci vel,
+        molestie quam. Fusce blandit tincidunt nulla, quis sollicitudin libero facilisis et. Integer
+        interdum nunc ligula, et fermentum metus hendrerit id. Vestibulum lectus felis, dictum at
+        lacinia sit amet, tristique id quam. Cras eu consequat dui. Suspendisse sodales nunc ligula,
+        in lobortis sem porta sed. Integer id ultrices magna, in luctus elit. Sed a pellentesque
+        est.\n\n
+        Aenean nunc velit, lacinia sed dolor sed, ultrices viverra nulla. Etiam a venenatis nibh.
+        Morbi laoreet, tortor sed facilisis varius, nibh orci rhoncus nulla, id elementum leo dui
+        non lorem. Nam mollis ipsum quis auctor varius. Quisque elementum eu libero sed commodo. In
+        eros nisl, imperdiet vel imperdiet et, scelerisque a mauris. Pellentesque varius ex nunc,
+        quis imperdiet eros placerat ac. Duis finibus orci et est auctor tincidunt. Sed non viverra
+        ipsum. Nunc quis augue egestas, cursus lorem at, molestie sem. Morbi a consectetur ipsum, a
+        placerat diam. Etiam vulputate dignissim convallis. Integer faucibus mauris sit amet finibus
+        convallis.\n\n
+        Phasellus in aliquet mi. Pellentesque habitant morbi tristique senectus et netus et
+        malesuada fames ac turpis egestas. In volutpat arcu ut felis sagittis, in finibus massa
+        gravida. Pellentesque id tellus orci. Integer dictum, lorem sed efficitur ullamcorper,
+        libero justo consectetur ipsum, in mollis nisl ex sed nisl. Donec maximus ullamcorper
+        sodales. Praesent bibendum rhoncus tellus nec feugiat. In a ornare nulla. Donec rhoncus
+        libero vel nunc consequat, quis tincidunt nisl eleifend. Cras bibendum enim a justo luctus
+        vestibulum. Fusce dictum libero quis erat maximus, vitae volutpat diam dignissim.
+    </string>
+<!--    <string name="thecowandthepitcher"><![CDATA[-->
+<!--        <b><font color="#008000">Story name: </b>The cow and the pitcher-->
+<!--        <br><br>In a spell of dry weather, when the Birds could find very little to drink, a thirsty Crow found a pitcher with a little water in it.-->
+<!--        <br><br>(Vào một đợt khô hạn, khi các loài chim chỉ có thể tìm thấy rất ít nước để uống, một con quạ khát nước đã tìm thấy một cái bình trong đó có một ít nước.)-->
+<!--        <br><br>But the pitcher was high and had a narrow neck, and no matter how he tried, the Crow could not reach the water. The poor thing felt as if he must die of thirst.-->
+<!--        <br><br>(Nhưng cái bình thì cao và có cái cổ hẹp, và dù cho quạ ta có cố gắng sao đi chăng nữa thì nó cũng không thể chạm được tới nước trong bình. Nó cảm nhận một điều tệ hại nếu nó phải chết vì khát.)-->
+<!--        <br><br>Then an idea came to him. Picking up some small pebbles, he dropped them into the pitcher one by one. With each pebble the water rose a little higher until at last it was near enough so he could drink.-->
+<!--        <br><br>(Sau đó, một ý tưởng thoáng lên trong nó. Nó nhặt lên vài viên sỏi nhỏ và thả từng viên một vài cáu bình chứa nước. Cứ mỗi viên sỏi thì nước lại dang lên cao hơn cho đến cuối cùng đã gần đủ để nên nó có thể uống.)-->
+<!--        <br><br><i>“In a pinch a good use of our wits may help us out.”</b>-->
+<!--        <br><br>“Trong một trường hợp cấp thiết thì sự bình tĩnh sẽ giúp chúng ta vượt qua những sự cố.”]]>-->
+
+
+<!--    </string>-->
+
+    <string name="thecowandthepitcher"><![CDATA[
+        <b><font color="#008000">Story name: </font></b>The cow and the pitcher
+        <br><br>In a spell of dry weather, when the Birds could find very little to drink, a thirsty Crow found a pitcher with a little water in it.
+        <br><br><font color="#008000">(Vào một đợt khô hạn, khi các loài chim chỉ có thể tìm thấy rất ít nước để uống, một con quạ khát nước đã tìm thấy một cái bình trong đó có một ít nước.)</font>
+        <br><br>But the pitcher was high and had a narrow neck, and no matter how he tried, the Crow could not reach the water. The poor thing felt as if he must die of thirst.
+        <br><br><font color="#008000">(Nhưng cái bình thì cao và có cái cổ hẹp, và dù cho quạ ta có cố gắng sao đi chăng nữa thì nó cũng không thể chạm được tới nước trong bình. Nó cảm nhận một điều tệ hại nếu nó phải chết vì khát.)</font>
+        <br><br>Then an idea came to him. Picking up some small pebbles, he dropped them into the pitcher one by one. With each pebble the water rose a little higher until at last it was near enough so he could drink.
+        <br><br><font color="#008000">(Sau đó, một ý tưởng thoáng lên trong nó. Nó nhặt lên vài viên sỏi nhỏ và thả từng viên một vài cáu bình chứa nước. Cứ mỗi viên sỏi thì nước lại dang lên cao hơn cho đến cuối cùng đã gần đủ để nên nó có thể uống.)</font>
+        <br><br><i>“<b><font color="#008000">In a pinch a good use of our wits may help us out.”</font></b>
+        <br><br><font color="#000000">“Trong một trường hợp cấp thiết thì sự bình tĩnh sẽ giúp chúng ta vượt qua những sự cố.”</font>]]></string>
+
+
+    <string name="friend"><![CDATA[
+        <b>Story name: </b>Friendship is a weapon
+        <br><br>It was hot summer. A lion went to a pool to drink water. Just then a pig also came there to quench his thirst. Both of them wanted to drink first.
+        <br><br><font color="#008000">(Đó là vào mùa hè nóng nực.Một con sư tử đi đến hồ nước để uống nước.Vừa lúc đó, một con heo cũng đến để làm dịu cơn khát của mình. Cả hai đều muốn uống đầu tiên.)</font>
+        <br><br>They looked at each other with blood-shot eyes and attacked each other with so much anger that soon they started bleeding.Feeling tired, both stopped for a while to be fresh. Suddenly, they heard the screams of vultures. They saw that a large number of vultures were looking at them with longing eyes.
+        <br><br><font color="#008000">(Chúng nhìn nhau với ánh mắt hình viên đạn và tấn công đối phương rất dữ dội chẳng mấy chốc cả hai đều đổ máu. Cảm thấy mệt mỏi,cả hai ngừng lại một lúc để nghỉ.Đột nhiên , chúng nghe thây tiếng la hét của kền kền,Chúng nhìn thấy một bầy lớn kền kền đang nhìn chúng với đôi mắt thèm khát.)</font>
+        <br><br>In no time, both the beasts understood that the vultures were waiting for one of them to be killed by the other so that they might feed on his dead body.
+        <br><br><font color="#008000">(Ngay khoảnh khắc đó,hai con thú đã hiểu ra rằng bọn kền kền đang chờ một trong hai bị giết chết bởi con còn lại để chúng có thể ăn thịt con đã chết.)</font>
+        <br><br>So both of them became friends, quenched their thirst and went away.
+        <br><br><font color="#008000">(Vì vậy cả hai con thú đã trở thành bạn,dập tắt cơn thèm khát của chúng và bay đi.)</font>
+        <br><br>Thus, their friendship saved their lives.
+        <br><br><font color="#008000">(Cuối cùng, tình bạn của cả hai đã cứu sống họ.)</font>
+]]>
+
+
+    </string>
+
+    <string name="thesun"><![CDATA[
+        <b>Story name: </b>The wind and the sun
+        <br><br>The wind and the Sun were disputing which was the stronger.
+        <br><br><font color="#008000">(Gió và Mặt trời đang tranh cãi xem ai mạnh hơn.)</font>
+        <br><br>Suddenly they saw a traveler coming down the road, and the Sun said: “I see a way to decide our dispute. Whichever of us can cause that traveler to take off his cloak shall be regarded as the stronger You begin”.
+        <br><br><font color="#008000">(Đột nhiên họ nhìn thấy một du khách đang đi xuống đường, Mặt trời nói: “Tôi tìm ra cách để giải quyết cuộc tranh chấp của chúng ta rồi. Ai trong chúng ta có thể khiến du khách đó cởi bỏ áo choàng của mình thì được coi là người mạnh hơn”.)</font>
+        <br><br>So the Sun retired behind a cloud, and the Wind began to blow as hard as it could upon the traveler.
+        <br><br><font color="#008000">(Vì thế, Mặt trời rút lui sau một đám mây và Gió bắt đầu thổi mạnh hết sức có thể vào người du khách.)</font>
+        <br><br>But the harder he blew the more closely the traveler wrapped his cloak around him, till at last the Wind had to give up in despair.
+        <br><br><font color="#008000">(Thế nhưng càng thổi mạnh, người du khách càng quấn áo choàng quanh người chặt hơn, cho đến khi cuối cùng Gió phải bỏ cuộc trong tuyệt vọng.)</font>
+        <br><br>Then the Sun came out and shone in all his glory upon the traveler, who soon found it too hot to walk with his cloak on.
+        <br><br><font color="#008000">(Sau đó, Mặt trời xuất hiện và tỏa sáng rực rỡ chiếu rọi vào người du khách. Người này nhanh chóng cảm thấy trời quá nóng để đi bộ với chiếc áo choàng của mình.)</font>
+]]>
+
+
+    </string>
+</resources>
