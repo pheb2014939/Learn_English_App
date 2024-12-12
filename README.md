@@ -30,13 +30,13 @@ definitions, examples, images, and related vocabulary.
 
 
 
-- Learn wirh flashcards
+- **Function:** Learn wirh flashcards
 <img width="450" alt="image" src="https://github.com/user-attachments/assets/3e0eb411-1af6-40ee-87d3-621b301627d5" />
 
 
 
 
-- Quiz test
+- **Function:** Quiz test
 <img width="457" alt="image" src="https://github.com/user-attachments/assets/f1e86103-0b61-48b7-8390-05f443177ff5" />
 
 
@@ -45,5 +45,5 @@ definitions, examples, images, and related vocabulary.
 
 
 
-- Read stories
+- **Function:** Read stories
 <img width="462" alt="image" src="https://github.com/user-attachments/assets/11e96bc3-0fa3-4735-a464-959fb06c655d" />
