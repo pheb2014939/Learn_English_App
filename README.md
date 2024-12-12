@@ -1,6 +1,22 @@
 #  LEARN ENGLISH DICTIONARY APP
 
+## Database design 
+
+-This project utilize Firebase Realtime Database
+-The application contains 9 Tables: Each category contains words, their
+definitions, examples, images, and related vocabulary.
+- Advanced English Communication,
+- Quiz
+- Basic Communication
+- Dictionary
+- Idioms
+- IELTS
+- IELTS Listening
+- Random
+- TOEIC Word
+
 ## App UI design 
+
 
 - Learning English Vocabulary Application UI
 
