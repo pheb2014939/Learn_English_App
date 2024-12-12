@@ -8,9 +8,10 @@ reinforce learning and improve retention.
 ## Database design 
 
 This project utilize Firebase Realtime Database. The application contains 9 Tables: Each category contains words, their
-definitions, examples, images, and related vocabulary.
+definitions, examples, images, and related vocabulary. List of 9 table on the DB:
 
-- Advanced English Communication,
+
+- Advanced English Communication
 - Quiz
 - Basic Communication
 - Dictionary
